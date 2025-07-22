@@ -1,5 +1,4 @@
-# Body Composition and Internalizing Problems in Adolescence  
-**Moderation by the Early Life Environment**
+# Body Composition and Internalizing Problems in Adolescence: Moderation by the Early Life Environment
 
 This repository contains code and analysis supporting the manuscript:  
 **"Body Composition and Internalizing Problems in Adolescence: Moderation by the Early Life Environment"**  
@@ -31,19 +30,17 @@ Adolescence is a critical period when risk for metabolic and mental health probl
 ## Repository Contents
 
 - `code/` – Scripts to reproduce the core analyses (GAMM models, random slope estimation, moderation tests)
-- `data/` – Derived data files (e.g., individual-level coupling estimates), if permissible under ABCD data use agreements
 - `figures/` – Publication-ready figures
-- `MetPsych_v1_1_COMMSPSYCH_wfigs.pdf` – Full manuscript with embedded figures
 
 ## Citation
 
 If you use this repository or build upon its analyses, please cite:
 
-> Rasmussen JM et al. (2025). *Body Composition and Internalizing Problems in Adolescence: Moderation by the Early Life Environment*. Communications Psychology.
+> Buss C et al. (2025). *Body Composition and Internalizing Problems in Adolescence: Moderation by the Early Life Environment*. Communications Psychology.
 
 ## Data Access
 
-The ABCD Study data used in this work are publicly available from the [NIMH Data Archive (NDA)](https://nda.nih.gov/abcd) with appropriate data use agreements. Derived variables such as random slope estimates will be shared via the [NIMH Brain Development Cohorts (NBDC) platform](https://nda.nih.gov/edit_collection.html?id=3147) upon publication.
+The ABCD Study data used in this work are publicly available from the [NIH Brain Development Cohorts (NBDC) platform](https://www.nbdc-datahub.org) with appropriate data use agreements. Data used in this publication are from ABCD Data Release 5.1.
 
 ---
 
